@@ -1,11 +1,11 @@
 {
   "name": "@arash-hp/uikit-pazar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A personalised UI library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
-  "types":"dist/index.d.ts",
-  "files":[
+  "types": "dist/index.d.ts",
+  "files": [
     "dist"
   ],
   "publishConfig": {
