@@ -18,6 +18,9 @@
     "package",
     "rollup"
   ],
+  "publishConfig": {
+    "@company:registry": "https://github.com/arash-hp/UI"
+  },
   "author": "Arash",
   "license": "ISC",
   "homepage": "https://github.com/arash-hp/UI",
