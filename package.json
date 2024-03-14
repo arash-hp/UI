@@ -1,5 +1,5 @@
 {
-  "name": "@arash-hp/uikit-pazar",
+  "name": "UI",
   "version": "0.0.2",
   "description": "A personalised UI library",
   "main": "dist/cjs/index.js",
@@ -9,7 +9,7 @@
     "dist"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/arash-hp"
+    "registry": "https://npm.pkg.github.com/UI"
   },
   "scripts": {
     "dev": "rollup -c --watch",
