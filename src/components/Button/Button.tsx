@@ -34,7 +34,7 @@ const StyledButton = styled.button<ButtonProps>`
   }
 `;
 
-const Button: React.FC<ButtonProps> = ({
+const PzButton: React.FC<ButtonProps> = ({
   size,
   primary,
   disabled,
@@ -56,4 +56,4 @@ const Button: React.FC<ButtonProps> = ({
   );
 };
 
-export default Button;
+export default PzButton;
